@@ -1,5 +1,5 @@
 # Touch-Challenge
-Full Stack Challenge( TouchBistro)
+Full Stack Challenge
 
 Framework: `React Js`
 Backend: `Express` `Node.js`
